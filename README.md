@@ -11,3 +11,8 @@ Currently the Bambu Studio application does not allow you to import and export p
 * [Polymaker](https://us.polymaker.com/products/polylite-asa?_pos=1&_sid=8bc739e8c&_ss=r)
 * [Form Futura](https://formfutura.com/product/apollox/)
 * [Fillamentun](https://fillamentum.com/collections/asa-filament/)
+
+## References
+* [Bambu Lab Wiki](https://wiki.bambulab.com/en/x1/manual/compatibility-and-parameter-settings-of-filaments)
+* [Bambu Lab forum](https://forum.bambulab.com/t/asa-printing/4391/4)
+* [3D Printing Solutions](https://www.3dprintingsolutions.com.au/User-Guides/how-to-3d-print-asa-filament)
